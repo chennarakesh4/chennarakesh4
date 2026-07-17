@@ -5,7 +5,7 @@
 
 ## 💼 Experience
 
-**Programmer Analyst | Cognizant (2022 - Present)**
+**Data Analyst | Cognizant (2022 - Present)**
 
 - Automated reporting, reducing manual effort by **40%**
 - Built **Power BI & Excel Dashboards**
